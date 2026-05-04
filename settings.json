@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pig1-QjMH.aternos.me",
-    "port": 22928,
-    "version": "1.21.11",
+    "ip": "24h1.aternos.me",
+    "port": 27939,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
